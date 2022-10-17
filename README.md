@@ -13,6 +13,7 @@ This is yet another Ecommerce website
 * Bootstrap
 * JavaScript 
 
+Before running just create a schema named 'spring' in your MySQL
 
 You can add new user by clicking on *Signin* button and login by cliking on *Login* button but only as User to become admin you must ask the Admin to upgrade you
 
